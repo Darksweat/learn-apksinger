@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apksig.iml" filepath="$PROJECT_DIR$/apksig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apksig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/apksig_main.iml" group="apksig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apksig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/apksig_test.iml" group="apksig" />
+    </modules>
+  </component>
+</project>
